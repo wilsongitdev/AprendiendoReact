@@ -1,0 +1,9 @@
+#main-header{
+    background-color: #dddddd;
+    text-align: center;
+    padding-top: 10px;
+    padding-bottom: 10px;
+}
+#main-header h1{
+    margin-bottom: 0;
+}

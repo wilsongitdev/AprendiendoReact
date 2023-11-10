@@ -1,0 +1,1 @@
+export const url = "http://localhost:3000/fractal_order_product/api";

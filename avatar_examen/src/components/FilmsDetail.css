@@ -1,0 +1,34 @@
+@media (max-width: 768px) {
+    .card{
+      padding: 0.5em!important;
+    }
+}
+  
+.card {
+    padding: 1em;
+    background-color: antiquewhite;
+    border-color: #9e9e9e;
+}
+
+.list-group-detail-film-parent *{
+    background-color: antiquewhite;
+}
+
+
+/* Estilo del contenedor scrollable */
+.scrollable-container {
+max-height: 250px; 
+overflow-y: auto; 
+}
+
+/* Estilo del scrollbar */
+.scrollable-container::-webkit-scrollbar {
+width: 12px; 
+}
+
+/* Estilo del thumb (mango) del scrollbar */
+.scrollable-container::-webkit-scrollbar-thumb {
+background-color: #9e9e9e; 
+border-radius: 6px; 
+}
+  

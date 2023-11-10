@@ -1,0 +1,22 @@
+#root {
+  width: 100%;
+  margin: 0 auto;
+  padding: 2rem;
+  height: 100vh;
+  overflow-y: auto;
+}
+@media (max-width: 768px) {
+  #root{
+    padding: 1em!important;
+  }
+
+}
+
+@media (max-width: 768px) {
+  .container, .container .col-sm-8{
+      margin-top: 1rem;
+  }
+}
+section>.container,.container>.row{
+  margin-top: 1rem!important;
+}

@@ -1,0 +1,21 @@
+.container-card{
+    display: grid;
+    grid-template-columns: repeat(
+        auto-fill, 
+        minmax(200px, 1fr)
+    );
+    grid-column-gap: 8px;
+    grid-row-gap: 15px;
+    /* si se quiere ajustar la cantidad de cards a mostrar */
+    max-width: 629px;
+    margin: 0 auto;
+}
+.card{
+    background-color: burlywood;
+    border-radius: 1rem;
+    box-shadow: rgba(149, 157, 165, 0.2) 0px 8px 24px;
+}
+
+li{
+    word-wrap: break-word;
+}

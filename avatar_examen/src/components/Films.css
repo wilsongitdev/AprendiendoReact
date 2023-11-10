@@ -1,0 +1,9 @@
+.list-group-films .list-group-item:hover{
+    background-color: #9fc4cc;
+    border-color: #9fc4cc;
+  }
+  
+  .list-group-films .list-group-item.active{
+    background-color: #68868C!important;
+    border-color: #68868C!important;
+  }

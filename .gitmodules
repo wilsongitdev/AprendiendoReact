@@ -1,0 +1,18 @@
+[submodule "Test_Fractal_ReactJS"]
+	path = Test_Fractal_ReactJS
+	url = https://github.com/wilsongitdev/Test_Fractal_ReactJS.git
+[submodule "avatar_examen"]
+	path = avatar_examen
+	url = https://github.com/wilsongitdev/avatar_examen.git
+[submodule "promptopia"]
+	path = promptopia
+	url = https://github.com/wilsongitdev/promptopia.git
+[submodule "jonmircha-yt-react"]
+	path = jonmircha-yt-react
+	url = https://github.com/wilsongitdev/jonmircha-yt-react.git
+[submodule "Evaluacion-Inresorts-FRONT-END"]
+	path = Evaluacion-Inresorts-FRONT-END
+	url = https://github.com/wilsongitdev/Evaluacion-Inresorts-FRONT-END.git
+[submodule "lilabreact"]
+	path = lilabreact
+	url = https://github.com/wilsongitdev/lilabreact.git

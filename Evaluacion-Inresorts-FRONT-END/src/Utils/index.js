@@ -1,0 +1,1 @@
+export const ApiWebUrl="https://servicios.inclubtest.online:2053/api/";

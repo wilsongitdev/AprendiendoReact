@@ -9,6 +9,7 @@ const ListOfMovies = ({ movies }) => {
 };
 
 const NoMovies = ({ errorMovie, movies }) => {
+  console.log(movies);
   if (errorMovie)
     return (
       <p

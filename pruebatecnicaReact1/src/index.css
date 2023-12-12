@@ -1,0 +1,34 @@
+header{
+    width: 100%;
+    text-align: center;
+}
+
+main{
+  width: 100%;  
+}
+.peliculas-container{
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(250px, 1fr));
+  margin-top: 1.25rem;
+  gap: 1rem;
+}
+
+.form-search-movie{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.movie-card{
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  gap: 0.25rem;
+}
+.movie-card h3,h5{
+  margin: 0!important;
+}
+.movie-card img{
+  border-radius: 8px;
+}
